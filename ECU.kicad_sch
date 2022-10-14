@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 907314dd-41a6-4af0-b6fc-c4b09d350a7e)
+
+  (paper "A3")
+
+  (lib_symbols
+  )
+
+
+  (text "UCI Rocket Project - Avionics\nEngine Control Unit" (at 300.99 260.35 0)
+    (effects (font (size 2 2)) (justify left bottom))
+    (uuid a08d951c-56f8-46fe-be7a-17a6833cd1ae)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
